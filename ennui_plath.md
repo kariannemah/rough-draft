@@ -2,11 +2,11 @@
 
 Tea leaves thwart those who court catastrophe,  
 designing futures where nothing will occur:  
-cross Cassandra's palm and, yawning, she  
+cross the gypsy's palm and yawning she  
 will still predict no perils left to conquer.  
 Jeopardy is jejune now: naive knight  
 finds ogres out-of-date and dragons unheard  
-of, while blase princesses indict  
+of, while blasé princesses indict  
 tilts at terror as downright absurd.  
 
 The beast in Jamesian grove will never jump,  
