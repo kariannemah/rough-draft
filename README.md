@@ -6,7 +6,7 @@ I love reading other people's drafts. The more a draft is marked up, the better.
 
 Finding multiple drafts of a single poem is tricky. More and more university archives are digitizing their collections, but selections thereof appear online in dribs and drabs.
 
-Virginia Commonwealth University hosts two typescript drafts of ["Ennui" by Sylvia Plath](http://www.blackbird.vcu.edu/v5n2/poetry/plath_s/typescript-draft.htm). I've included this poem as a first example. You can see the prose diff here.
+Virginia Commonwealth University hosts two typescript drafts of ["Ennui" by Sylvia Plath](http://www.blackbird.vcu.edu/v5n2/poetry/plath_s/typescript-draft.htm). I've included this poem as a first example. You can see the prose diff [here](https://github.com/kariannemah/rough-draft/commit/9320e6f94ad27a13f6ed608e0cd860113b8fc5f3#rdiff-5e6631b1d1eeb49dab4b101f3af74250).
 
 
 Next up is [Donald Hall's Ox Cart Man](http://www.library.unh.edu/special/index.php/exhibits/jane-kenyon-and-donald-hall/ox-cart-man/draft15) with many more drafts!
