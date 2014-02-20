@@ -1,6 +1,6 @@
 ### Rough Draft
 
-I love reading other people's drafts. The more a draft is marked up, the better. It's a good reminder that we improve our writing--both the piece at hand and our general skill--not by writing more, but by editing over and over again.
+I love reading other people's drafts. The more a draft is marked up, the better. It's a good reminder that we improve our writing—both the piece at hand and our general skill—not by writing more, but by editing over and over again.
 
 [Now that Github allows us to render prose diffs](https://github.com/blog/1784-rendered-prose-diffs), why not visualize the editing process of our favorite poets and writers?
 
